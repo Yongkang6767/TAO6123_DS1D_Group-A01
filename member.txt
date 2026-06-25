@@ -2,5 +2,5 @@ Member text file.
 Insert your name, Id and Githut Username.
 1) Lim Yong Kang, 253UT245NE, Yongkang6767
 2) NIVASHINI THARMARAJA, 251UT2505Y, nivarithm23
-3)Ng Meng Xuan, 253UT245KH, mengxuan833
-4)
+3) Ng Meng Xuan, 253UT245KH, mengxuan833
+4) Lim Yu Ci, 253UT245R1, CCCF44
